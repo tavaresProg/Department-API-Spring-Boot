@@ -1,6 +1,4 @@
-Spring Boot Api
-
-API to access and modify data from a MySQL database of a film registration system.
+Spring Boot application using REST API's for modifing data from a db with a Department entitie
 
 Concepts used:
 
@@ -11,4 +9,4 @@ Hibernate Validations
 Loggers
 Exception Handling
 Unit Testing
-.yml file
+using .yml file
